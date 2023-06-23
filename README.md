@@ -1,4 +1,4 @@
-# PaLM
+# PM
 <img src="./palm.gif" width="450px"></img>
 
 ## Acknowledgements
